@@ -94,3 +94,51 @@ input {
 ::placeholder {
     color: rgb(188, 192, 192);
 }
+
+
+
+
+
+#donate-plan-h1 {
+    font-size: 40px;
+}
+
+#donate-plan-p {
+    color: rgb(104, 101, 101);
+    font-size: 20px;
+}
+
+.flexible-container {
+    display: flex;
+    width: 80%;
+    padding-left: 150px;
+    margin-top: 70px;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.food {
+    background-color: rgb(237, 252, 255);
+    text-align: left;
+    padding: 40px 15px;
+    width: 30%;
+}
+
+.shelter {
+    background-color: rgb(250, 229, 229);
+    text-align: left;
+    padding: 40px 15px;
+    width: 30%;
+    margin-left: 20px;
+}
+
+.education {
+    background-color: rgb(253, 232, 220);
+    text-align: left;
+    padding: 40px 15px;
+    width: 30%;
+    margin-left: 20px;
+}
