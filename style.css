@@ -142,3 +142,36 @@ input {
     width: 30%;
     margin-left: 20px;
 }
+
+
+
+
+.extra-one {
+    margin-top: 150px;
+}
+
+.ex-one {
+    display: flex;
+    margin-left: 10%;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 70%;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+#ex-one-p {
+    padding-bottom: 40px;
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+#ex-one-h1 {
+    font-size: 30px;
+}
