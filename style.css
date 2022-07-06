@@ -60,18 +60,18 @@ body {
 }
 
 .donate-button {
-    padding-bottom: 70px;
+    padding-bottom: 100px;
 }
 
 .button-decoration {
     border: 1px solid white;
     padding: 40px 15px;
     text-decoration: none;
-    background-color: rgb(243, 241, 241);
+    background-color: rgb(250, 244, 244);
     color: rgb(97, 93, 93);
     font-size: 40px;
     margin: 0 5px;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 
 #two {
@@ -81,8 +81,16 @@ body {
     color: rgb(250, 67, 67);
 }
 
+input {
+    border: none;
+    border-bottom: 2px solid rgb(230, 226, 226);
+    width: 60%;
+    text-align: center;
+    text-decoration: rgb(197, 40, 40);
+    font-size: 20px;
+    margin-bottom: 20px;
+}
 
-
-p {
-    color: red;
+::placeholder {
+    color: rgb(188, 192, 192);
 }
